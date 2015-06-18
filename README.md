@@ -1,2 +1,2 @@
-# sungyongs.github.com
-for my jekyll blog
+# Blog
+My first jekyll blog
