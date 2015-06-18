@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Let me write something for start!"
+date:   2015-06-18 17:34:55
+categories: jekyll update
+---
+My first post. I am working in December & Company using iMac. Tonight, I am going to meet my lovely honey who loves delicious things very much. :)
+For dinner, I suggested chi-mac which means chicken with beer and I was sure that she loved it. However, she looked unhappy and gave me another idea, which was pi-mac, pizza with beer. 
+It wouldn't be matter to me because I also love pizza. So, frankly speaking, I was really open mind when we talked about today's menu.
+However, I heard that.. she already had pa-dac which means chicken with green onions when I went Nokyang for military drill. Finally, I understood why she was unhappy (she doesn't really like to have similar food in the same week..)!
+Isn't she lovely?
+
+We are going to meet Sookmyung women's university station (Exit 7) arount 19:00.
+
+I am looking forward to enjoying tonight wih my ho-ney-boo~
+
+Sungyong 
+
+
+{% highlight ruby %}
+test how highlight is expressed
+{% endhighlight %}
+
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
