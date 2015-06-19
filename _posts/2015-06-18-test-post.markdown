@@ -17,6 +17,10 @@ I am looking forward to enjoying tonight wih my ho-ney-boo~
 Sungyong 
 
 
+```bash
+$ export PATH=$PATH:/usr/bin
+$ kill -9 `ps -ef | grep key-words | grep -v grep | awk '{print $2}'`
+```
 {% highlight ruby %}
 test how highlight is expressed
 {% endhighlight %}
