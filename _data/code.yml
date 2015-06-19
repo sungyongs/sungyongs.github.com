@@ -1,6 +1,6 @@
 - name: Code Test
   github: sungyongs/test
-  technology: zsh
+  technology: git
   description: >
     To see how code section is shown.
 
