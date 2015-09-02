@@ -95,6 +95,16 @@ a.discreet {
   color: #222;
 }
 
+.index ul{
+    background-color: #FFFFFF;
+    list-style: disc;
+    padding:10px;
+}
+
+.index li{
+    margin-left:10px;
+}
+
 .fancy, section, article {
   font-family: "proxima-nova", Helvetica, Arial, sans-serif;
   line-height: 170%;
