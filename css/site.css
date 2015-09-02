@@ -143,12 +143,12 @@ article {
 
 .portfolio-nav li:first-child {
   border-top-left-radius: 5px;
-  border-bottom-left-radius: 1px;
+  border-bottom-left-radius: 5px;
 }
 
 .portfolio-nav li:last-child {
   border-top-right-radius: 5px;
-  border-bottom-right-radius: 1px;
+  border-bottom-right-radius: 5px;
   border-right-width: 1px;
 }
 
@@ -349,7 +349,7 @@ footer .links a:hover {
 }
 
 ul.posts {
-  list-style-type: disc outside none;
+  list-style-type: none;
   margin-bottom: 2em;
   padding-left: 0;
 }
