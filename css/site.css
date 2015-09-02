@@ -345,7 +345,7 @@ ul.posts {
 }
 
 ul.posts li {
-  margin-bottom: 1.5em;
+  margin-bottom: 0;
 }
 
 ul.posts .date {
