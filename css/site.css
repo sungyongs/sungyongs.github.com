@@ -95,15 +95,7 @@ a.discreet {
   color: #222;
 }
 
-ul{
-    background-color: #FFFFFF;
-    list-style: disc;
-    padding:10px;
-}
 
-li{
-    margin-left:10px;
-}
 
 .fancy, section, article {
   font-family: "proxima-nova", Helvetica, Arial, sans-serif;
