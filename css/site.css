@@ -97,8 +97,6 @@ a.discreet {
 
 ul{
     background-color: #FFFFFF;
-    border: 1px solid black;
-    border-radius: 3px 3px 3px 3px;
     list-style: disc;
     padding:10px;
 }
