@@ -95,6 +95,18 @@ a.discreet {
   color: #222;
 }
 
+ul{
+    background-color: #FFFFFF;
+    border: 1px solid black;
+    border-radius: 3px 3px 3px 3px;
+    list-style: disc;
+    padding:10px;
+}
+
+li{
+    margin-left:10px;
+}
+
 .fancy, section, article {
   font-family: "proxima-nova", Helvetica, Arial, sans-serif;
   line-height: 170%;
